@@ -301,3 +301,9 @@ function App( ) {
 }
 
 export default App;
+
+      {/* {topic === "BreakingNews" && BreakingNews()}
+      {topic === "Sports" && Sports()}
+      {topic === "Politics" && Politics()}
+      {topic === "USNews" && USNews()}
+      {topic === "WorldNews" && WorldNews()} */}
